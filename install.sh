@@ -113,7 +113,7 @@ do
     echo "You chose choice $REPLY which is $opt"
     indicatorMultiload
     ;;
-    "LM Sensors"
+    "LM Sensors")
     echo "You chose choice $REPLY which is $opt"
     lmSensors
     ;;
